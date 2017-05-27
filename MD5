@@ -1,0 +1,17 @@
+813ecc260635baa7d502284e8b1d544a *DESCRIPTION
+e83db42ec8a6d78fb9417e0d52ef6b91 *NAMESPACE
+20169abefda5a6774e039baa900bc3ae *R/polypoly-package.R
+335074d86432652a97d4657e07024484 *build/vignette.rds
+5c94b7025c8c6aeb19f5c679ceeb6e3e *inst/doc/overview.R
+f8e6d0a97ce0209c3f9db5b4892d74c7 *inst/doc/overview.Rmd
+0c49b1d8c84147077214bbe7d3a6560f *inst/doc/overview.html
+3997305b93fbc61e898334265243bf72 *man/poly_add_columns.Rd
+d8d956dae5afc99baff109d50217714e *man/poly_melt.Rd
+207a6262295fefe8fbc5b5a7bb5e9853 *man/poly_plot.Rd
+880b68487646ad8ef55d1252e213b4e0 *man/poly_rescale.Rd
+635e09b6b64e4baf8f5b414990ef9022 *man/polypoly.Rd
+df97058f3494c93c9d5bdd9b37a4b93b *tests/testthat.R
+c578f74fb0d1dadef6cd65a1336b81a7 *tests/testthat/test-add_columns.R
+4b994bf6d400bb40ab353497dc5582dd *tests/testthat/test-plot-data.R
+40cf027567a4268a49b3a02278744c75 *tests/testthat/test-rescale.R
+f8e6d0a97ce0209c3f9db5b4892d74c7 *vignettes/overview.Rmd
